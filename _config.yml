@@ -12,3 +12,5 @@ github_username:  indvinoth
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
